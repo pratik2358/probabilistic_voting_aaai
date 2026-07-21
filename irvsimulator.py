@@ -6,6 +6,9 @@
 #
 # This code is written by Chris Staecker.
 # Please contact us with any questions! cstaecker@fairfield.edu
+#
+# Third-party code, lightly modified -- see the "Third-party code"
+# section of the README for provenance and the list of modifications.
 # ---------------------------------------------------------------------- #
 
 import sys,os
