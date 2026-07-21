@@ -1,0 +1,2139 @@
+{
+ "description": "Unified election manifest (primary + extension corpora, deduplicated)",
+ "count": 237,
+ "elections": [
+  {
+   "name": "Alaska_20220816_USHouse_Special",
+   "k": 3,
+   "n_bound": 157153,
+   "U": 31699,
+   "sources": [
+    "extension"
+   ]
+  },
+  {
+   "name": "Alaska_20221108_HouseDistrict10",
+   "k": 3,
+   "n_bound": 5229,
+   "U": 1568,
+   "sources": [
+    "extension"
+   ]
+  },
+  {
+   "name": "Alaska_20221108_HouseDistrict11",
+   "k": 3,
+   "n_bound": 5741,
+   "U": 1938,
+   "sources": [
+    "extension"
+   ]
+  },
+  {
+   "name": "Alaska_20221108_HouseDistrict15",
+   "k": 3,
+   "n_bound": 5542,
+   "U": 1728,
+   "sources": [
+    "extension"
+   ]
+  },
+  {
+   "name": "Alaska_20221108_HouseDistrict18",
+   "k": 3,
+   "n_bound": 1443,
+   "U": 676,
+   "sources": [
+    "primary"
+   ]
+  },
+  {
+   "name": "Alaska_20221108_HouseDistrict24",
+   "k": 3,
+   "n_bound": 6086,
+   "U": 1414,
+   "sources": [
+    "extension"
+   ]
+  },
+  {
+   "name": "Alaska_20221108_HouseDistrict27",
+   "k": 3,
+   "n_bound": 4836,
+   "U": 754,
+   "sources": [
+    "extension"
+   ]
+  },
+  {
+   "name": "Alaska_20221108_HouseDistrict30",
+   "k": 3,
+   "n_bound": 5683,
+   "U": 1851,
+   "sources": [
+    "extension"
+   ]
+  },
+  {
+   "name": "Alaska_20221108_HouseDistrict31",
+   "k": 3,
+   "n_bound": 4304,
+   "U": 769,
+   "sources": [
+    "extension"
+   ]
+  },
+  {
+   "name": "Alaska_20221108_HouseDistrict32",
+   "k": 3,
+   "n_bound": 2695,
+   "U": 478,
+   "sources": [
+    "extension"
+   ]
+  },
+  {
+   "name": "Alaska_20221108_HouseDistrict34",
+   "k": 3,
+   "n_bound": 6150,
+   "U": 1230,
+   "sources": [
+    "extension"
+   ]
+  },
+  {
+   "name": "Alaska_20221108_HouseDistrict6",
+   "k": 3,
+   "n_bound": 7473,
+   "U": 2048,
+   "sources": [
+    "primary"
+   ]
+  },
+  {
+   "name": "Alaska_20221108_SenateDistrictC",
+   "k": 3,
+   "n_bound": 10358,
+   "U": 3619,
+   "sources": [
+    "extension"
+   ]
+  },
+  {
+   "name": "Alaska_20221108_SenateDistrictD",
+   "k": 3,
+   "n_bound": 11584,
+   "U": 3618,
+   "sources": [
+    "extension"
+   ]
+  },
+  {
+   "name": "Alaska_20221108_SenateDistrictE",
+   "k": 3,
+   "n_bound": 12581,
+   "U": 4129,
+   "sources": [
+    "extension"
+   ]
+  },
+  {
+   "name": "Alaska_20221108_SenateDistrictJ",
+   "k": 3,
+   "n_bound": 6552,
+   "U": 2098,
+   "sources": [
+    "extension"
+   ]
+  },
+  {
+   "name": "Alaska_20221108_SenateDistrictN",
+   "k": 3,
+   "n_bound": 9946,
+   "U": 1607,
+   "sources": [
+    "extension"
+   ]
+  },
+  {
+   "name": "Alaska_20221108_SenateDistrictP",
+   "k": 3,
+   "n_bound": 7098,
+   "U": 1304,
+   "sources": [
+    "extension"
+   ]
+  },
+  {
+   "name": "Alaska_20221108_SenateDistrictQ",
+   "k": 3,
+   "n_bound": 10995,
+   "U": 2000,
+   "sources": [
+    "extension"
+   ]
+  },
+  {
+   "name": "Alaska_20221108_SenateDistrictR",
+   "k": 3,
+   "n_bound": 11901,
+   "U": 2728,
+   "sources": [
+    "extension"
+   ]
+  },
+  {
+   "name": "Alaska_20241105_StateHouseD1",
+   "k": 3,
+   "n_bound": 4973,
+   "U": 3190,
+   "sources": [
+    "extension"
+   ]
+  },
+  {
+   "name": "Alaska_20241105_StateHouseD15",
+   "k": 3,
+   "n_bound": 6744,
+   "U": 2076,
+   "sources": [
+    "extension"
+   ]
+  },
+  {
+   "name": "Alaska_20241105_StateHouseD19",
+   "k": 3,
+   "n_bound": 3236,
+   "U": 1135,
+   "sources": [
+    "extension"
+   ]
+  },
+  {
+   "name": "Alaska_20241105_StateHouseD28",
+   "k": 3,
+   "n_bound": 6561,
+   "U": 1177,
+   "sources": [
+    "extension"
+   ]
+  },
+  {
+   "name": "Alaska_20241105_StateHouseD40",
+   "k": 3,
+   "n_bound": 2575,
+   "U": 482,
+   "sources": [
+    "extension"
+   ]
+  },
+  {
+   "name": "Alaska_20241105_StateHouseD6",
+   "k": 3,
+   "n_bound": 9082,
+   "U": 2335,
+   "sources": [
+    "primary"
+   ]
+  },
+  {
+   "name": "Alaska_20241105_StateSenateD",
+   "k": 3,
+   "n_bound": 15485,
+   "U": 3847,
+   "sources": [
+    "extension"
+   ]
+  },
+  {
+   "name": "Alaska_20241105_StateSenateF",
+   "k": 3,
+   "n_bound": 12750,
+   "U": 4287,
+   "sources": [
+    "extension"
+   ]
+  },
+  {
+   "name": "Alaska_20241105_StateSenateL",
+   "k": 3,
+   "n_bound": 14968,
+   "U": 4600,
+   "sources": [
+    "extension"
+   ]
+  },
+  {
+   "name": "Alaska_20241105_StateSenateN",
+   "k": 3,
+   "n_bound": 12933,
+   "U": 2474,
+   "sources": [
+    "primary"
+   ]
+  },
+  {
+   "name": "Alaska_20241105_StateSenateR",
+   "k": 3,
+   "n_bound": 14453,
+   "U": 3670,
+   "sources": [
+    "primary"
+   ]
+  },
+  {
+   "name": "Berkeley_20101102_CityCouncilDistrict7",
+   "k": 3,
+   "n_bound": 2518,
+   "U": 1651,
+   "sources": [
+    "extension"
+   ]
+  },
+  {
+   "name": "Berkeley_20101102_CityCouncilDistrict8",
+   "k": 3,
+   "n_bound": 2202,
+   "U": 2388,
+   "sources": [
+    "extension"
+   ]
+  },
+  {
+   "name": "Berkeley_20121106_CityCouncilDistrict2",
+   "k": 3,
+   "n_bound": 2827,
+   "U": 2968,
+   "sources": [
+    "extension"
+   ]
+  },
+  {
+   "name": "Berkeley_20141104_CityCouncilDistrict1",
+   "k": 3,
+   "n_bound": 2292,
+   "U": 3279,
+   "sources": [
+    "extension"
+   ]
+  },
+  {
+   "name": "Berkeley_20161108_CityCouncilDistrict2",
+   "k": 3,
+   "n_bound": 2578,
+   "U": 4566,
+   "sources": [
+    "primary"
+   ]
+  },
+  {
+   "name": "Berkeley_20161108_CityCouncilDistrict6",
+   "k": 3,
+   "n_bound": 2295,
+   "U": 5170,
+   "sources": [
+    "extension"
+   ]
+  },
+  {
+   "name": "Berkeley_20181106_CityCouncilDistrict4",
+   "k": 3,
+   "n_bound": 1552,
+   "U": 3932,
+   "sources": [
+    "extension"
+   ]
+  },
+  {
+   "name": "Berkeley_20181106_CityCouncilDistrict7",
+   "k": 3,
+   "n_bound": 1040,
+   "U": 1774,
+   "sources": [
+    "primary"
+   ]
+  },
+  {
+   "name": "Berkeley_20201103_CityCouncilD3",
+   "k": 3,
+   "n_bound": 514,
+   "U": 7192,
+   "sources": [
+    "extension"
+   ]
+  },
+  {
+   "name": "Berkeley_20201103_CityCouncilD5",
+   "k": 3,
+   "n_bound": 378,
+   "U": 9639,
+   "sources": [
+    "primary"
+   ]
+  },
+  {
+   "name": "Berkeley_20241105_CityCouncilD3",
+   "k": 3,
+   "n_bound": 899,
+   "U": 5569,
+   "sources": [
+    "extension"
+   ]
+  },
+  {
+   "name": "Berkeley_20241105_CityCouncilD5",
+   "k": 3,
+   "n_bound": 548,
+   "U": 8117,
+   "sources": [
+    "extension"
+   ]
+  },
+  {
+   "name": "LasCruces_20191105_CityCouncilDistrict4",
+   "k": 3,
+   "n_bound": 1523,
+   "U": 37,
+   "sources": [
+    "primary"
+   ]
+  },
+  {
+   "name": "NewYorkCity_20210622_DEM_BoroughPresidentQueens",
+   "k": 3,
+   "n_bound": 165358,
+   "U": 29978,
+   "sources": [
+    "primary"
+   ]
+  },
+  {
+   "name": "NewYorkCity_20210622_DEM_CityCouncilD12",
+   "k": 3,
+   "n_bound": 15132,
+   "U": 2209,
+   "sources": [
+    "extension"
+   ]
+  },
+  {
+   "name": "NewYorkCity_20210622_DEM_CityCouncilD28",
+   "k": 3,
+   "n_bound": 11541,
+   "U": 2485,
+   "sources": [
+    "extension"
+   ]
+  },
+  {
+   "name": "NewYorkCity_20210622_DEM_CityCouncilD31",
+   "k": 3,
+   "n_bound": 14047,
+   "U": 1944,
+   "sources": [
+    "extension"
+   ]
+  },
+  {
+   "name": "NewYorkCity_20210622_DEM_CityCouncilD45",
+   "k": 3,
+   "n_bound": 17324,
+   "U": 1946,
+   "sources": [
+    "extension"
+   ]
+  },
+  {
+   "name": "NewYorkCity_20210622_DEM_PublicAdvocateCitywide",
+   "k": 3,
+   "n_bound": 717412,
+   "U": 97420,
+   "sources": [
+    "extension"
+   ]
+  },
+  {
+   "name": "NewYorkCity_20230627_CON_CityCouncilD13",
+   "k": 3,
+   "n_bound": 100,
+   "U": 12,
+   "sources": [
+    "extension"
+   ]
+  },
+  {
+   "name": "NewYorkCity_20230627_DEM_CityCouncilD12",
+   "k": 3,
+   "n_bound": 6495,
+   "U": 716,
+   "sources": [
+    "primary"
+   ]
+  },
+  {
+   "name": "NewYorkCity_20230627_DEM_CityCouncilD19",
+   "k": 3,
+   "n_bound": 5258,
+   "U": 750,
+   "sources": [
+    "primary"
+   ]
+  },
+  {
+   "name": "NewYorkCity_20230627_DEM_CityCouncilD23",
+   "k": 3,
+   "n_bound": 5857,
+   "U": 715,
+   "sources": [
+    "extension"
+   ]
+  },
+  {
+   "name": "NewYorkCity_20230627_DEM_CityCouncilD25",
+   "k": 3,
+   "n_bound": 5051,
+   "U": 462,
+   "sources": [
+    "extension"
+   ]
+  },
+  {
+   "name": "NewYorkCity_20230627_DEM_CityCouncilD29",
+   "k": 3,
+   "n_bound": 5688,
+   "U": 714,
+   "sources": [
+    "extension"
+   ]
+  },
+  {
+   "name": "NewYorkCity_20230627_DEM_CityCouncilD42",
+   "k": 3,
+   "n_bound": 5724,
+   "U": 455,
+   "sources": [
+    "extension"
+   ]
+  },
+  {
+   "name": "NewYorkCity_20230627_DEM_CityCouncilD43",
+   "k": 3,
+   "n_bound": 3275,
+   "U": 340,
+   "sources": [
+    "extension"
+   ]
+  },
+  {
+   "name": "NewYorkCity_20230627_REP_CityCouncilD13",
+   "k": 3,
+   "n_bound": 1808,
+   "U": 111,
+   "sources": [
+    "extension"
+   ]
+  },
+  {
+   "name": "NewYorkCity_20230627_REP_CityCouncilD47",
+   "k": 3,
+   "n_bound": 2044,
+   "U": 123,
+   "sources": [
+    "extension"
+   ]
+  },
+  {
+   "name": "Oakland_20101102_CityCouncilDistrict6",
+   "k": 3,
+   "n_bound": 5895,
+   "U": 6973,
+   "sources": [
+    "extension"
+   ]
+  },
+  {
+   "name": "Oakland_20121106_CityCouncilDistrict7",
+   "k": 3,
+   "n_bound": 7299,
+   "U": 7702,
+   "sources": [
+    "extension"
+   ]
+  },
+  {
+   "name": "Oakland_20121106_SchoolDirectorDistrict3",
+   "k": 3,
+   "n_bound": 9341,
+   "U": 11262,
+   "sources": [
+    "primary"
+   ]
+  },
+  {
+   "name": "Oakland_20141104_CityCouncilDistrict4",
+   "k": 3,
+   "n_bound": 6334,
+   "U": 11381,
+   "sources": [
+    "extension"
+   ]
+  },
+  {
+   "name": "Oakland_20161108_CityCouncilDistrict7",
+   "k": 3,
+   "n_bound": 5879,
+   "U": 9875,
+   "sources": [
+    "extension"
+   ]
+  },
+  {
+   "name": "Oakland_20181106_CityCouncilDistrict2",
+   "k": 3,
+   "n_bound": 5204,
+   "U": 15803,
+   "sources": [
+    "extension"
+   ]
+  },
+  {
+   "name": "Oakland_20201103_CityCouncilAtLarge",
+   "k": 3,
+   "n_bound": 10655,
+   "U": 175039,
+   "sources": [
+    "primary"
+   ]
+  },
+  {
+   "name": "Oakland_20201103_CityCouncilD1",
+   "k": 3,
+   "n_bound": 1579,
+   "U": 35311,
+   "sources": [
+    "extension"
+   ]
+  },
+  {
+   "name": "Oakland_20201103_CityCouncilD5",
+   "k": 3,
+   "n_bound": 1156,
+   "U": 16600,
+   "sources": [
+    "extension"
+   ]
+  },
+  {
+   "name": "Oakland_20201103_SchoolDirectorDist1",
+   "k": 3,
+   "n_bound": 1486,
+   "U": 32996,
+   "sources": [
+    "extension"
+   ]
+  },
+  {
+   "name": "Oakland_20221108_SchoolBoardD2",
+   "k": 3,
+   "n_bound": 1018,
+   "U": 14083,
+   "sources": [
+    "extension"
+   ]
+  },
+  {
+   "name": "Oakland_20221108_SchoolBoardD4",
+   "k": 3,
+   "n_bound": 1157,
+   "U": 25345,
+   "sources": [
+    "extension"
+   ]
+  },
+  {
+   "name": "Oakland_20221108_SchoolBoardD6",
+   "k": 3,
+   "n_bound": 987,
+   "U": 13548,
+   "sources": [
+    "extension"
+   ]
+  },
+  {
+   "name": "Oakland_20241105_CityCouncilD1",
+   "k": 3,
+   "n_bound": 2736,
+   "U": 27278,
+   "sources": [
+    "extension"
+   ]
+  },
+  {
+   "name": "Oakland_20241105_CityCouncilD5",
+   "k": 3,
+   "n_bound": 1656,
+   "U": 11105,
+   "sources": [
+    "extension"
+   ]
+  },
+  {
+   "name": "PierceCounty_20081104_CountyCouncilDistrict2",
+   "k": 3,
+   "n_bound": 6679,
+   "U": 33294,
+   "sources": [
+    "extension"
+   ]
+  },
+  {
+   "name": "SanFrancisco_20081104_BoardofSupervisorsDistrict4",
+   "k": 3,
+   "n_bound": 14879,
+   "U": 14558,
+   "sources": [
+    "primary"
+   ]
+  },
+  {
+   "name": "SanFrancisco_20081104_BoardofSupervisorsDistrict5",
+   "k": 3,
+   "n_bound": 21057,
+   "U": 14565,
+   "sources": [
+    "extension"
+   ]
+  },
+  {
+   "name": "SanFrancisco_20081104_BoardofSupervisorsDistrict7",
+   "k": 3,
+   "n_bound": 15329,
+   "U": 15723,
+   "sources": [
+    "primary"
+   ]
+  },
+  {
+   "name": "SanFrancisco_20151103_BoardofSupervisorsDistrict3",
+   "k": 3,
+   "n_bound": 5975,
+   "U": 10729,
+   "sources": [
+    "extension"
+   ]
+  },
+  {
+   "name": "SanFrancisco_20151103_Sheriff",
+   "k": 3,
+   "n_bound": 70551,
+   "U": 115360,
+   "sources": [
+    "extension"
+   ]
+  },
+  {
+   "name": "SanFrancisco_20180605_BoardofSupervisorsDistrict8",
+   "k": 3,
+   "n_bound": 12437,
+   "U": 20838,
+   "sources": [
+    "extension"
+   ]
+  },
+  {
+   "name": "SanFrancisco_20181106_BoardofSupervisorsDistrict6",
+   "k": 3,
+   "n_bound": 7776,
+   "U": 17586,
+   "sources": [
+    "primary"
+   ]
+  },
+  {
+   "name": "SanLeandro_20101102_CountyCouncilDistrict1",
+   "k": 3,
+   "n_bound": 7811,
+   "U": 12138,
+   "sources": [
+    "extension"
+   ]
+  },
+  {
+   "name": "SanLeandro_20121106_CountyCouncilDistrict2",
+   "k": 3,
+   "n_bound": 10156,
+   "U": 15179,
+   "sources": [
+    "extension"
+   ]
+  },
+  {
+   "name": "SanLeandro_20141104_CountyCouncilDistrict3",
+   "k": 3,
+   "n_bound": 4599,
+   "U": 9604,
+   "sources": [
+    "extension"
+   ]
+  },
+  {
+   "name": "SanLeandro_20141104_CountyCouncilDistrict5",
+   "k": 3,
+   "n_bound": 4800,
+   "U": 9899,
+   "sources": [
+    "extension"
+   ]
+  },
+  {
+   "name": "SanLeandro_20181106_CountyCouncilDistrict1",
+   "k": 3,
+   "n_bound": 6173,
+   "U": 18723,
+   "sources": [
+    "extension"
+   ]
+  },
+  {
+   "name": "Alaska_20221108_GovernorLieutenantGovernor",
+   "k": 4,
+   "n_bound": 203466,
+   "U": 61004,
+   "sources": [
+    "primary"
+   ]
+  },
+  {
+   "name": "Alaska_20221108_HouseDistrict20",
+   "k": 4,
+   "n_bound": 3827,
+   "U": 1188,
+   "sources": [
+    "primary"
+   ]
+  },
+  {
+   "name": "Alaska_20221108_HouseDistrict28",
+   "k": 4,
+   "n_bound": 5144,
+   "U": 812,
+   "sources": [
+    "extension"
+   ]
+  },
+  {
+   "name": "Alaska_20221108_HouseDistrict35",
+   "k": 4,
+   "n_bound": 6329,
+   "U": 1142,
+   "sources": [
+    "extension"
+   ]
+  },
+  {
+   "name": "Alaska_20221108_USRepresentative",
+   "k": 4,
+   "n_bound": 203803,
+   "U": 61165,
+   "sources": [
+    "extension"
+   ]
+  },
+  {
+   "name": "Alaska_20221108_USSenator",
+   "k": 4,
+   "n_bound": 202605,
+   "U": 60907,
+   "sources": [
+    "extension"
+   ]
+  },
+  {
+   "name": "Alaska_20241105_StateHouseD36",
+   "k": 4,
+   "n_bound": 6643,
+   "U": 2301,
+   "sources": [
+    "extension"
+   ]
+  },
+  {
+   "name": "Alaska_20241105_StateHouseD38",
+   "k": 4,
+   "n_bound": 2997,
+   "U": 612,
+   "sources": [
+    "extension"
+   ]
+  },
+  {
+   "name": "Alaska_20241105_US_House",
+   "k": 4,
+   "n_bound": 244582,
+   "U": 85279,
+   "sources": [
+    "primary"
+   ]
+  },
+  {
+   "name": "Berkeley_20101102_CityCouncilDistrict1",
+   "k": 4,
+   "n_bound": 2548,
+   "U": 3138,
+   "sources": [
+    "extension"
+   ]
+  },
+  {
+   "name": "Berkeley_20101102_CityCouncilDistrict4",
+   "k": 4,
+   "n_bound": 2464,
+   "U": 2291,
+   "sources": [
+    "extension"
+   ]
+  },
+  {
+   "name": "Berkeley_20141104_CityCouncilDistrict8",
+   "k": 4,
+   "n_bound": 1761,
+   "U": 2767,
+   "sources": [
+    "extension"
+   ]
+  },
+  {
+   "name": "Berkeley_20161108_CityCouncilDistrict3",
+   "k": 4,
+   "n_bound": 2680,
+   "U": 4443,
+   "sources": [
+    "extension"
+   ]
+  },
+  {
+   "name": "Berkeley_20181106_CityCouncilDistrict1",
+   "k": 4,
+   "n_bound": 2113,
+   "U": 5779,
+   "sources": [
+    "extension"
+   ]
+  },
+  {
+   "name": "Berkeley_20181106_CityCouncilDistrict8",
+   "k": 4,
+   "n_bound": 1782,
+   "U": 4771,
+   "sources": [
+    "extension"
+   ]
+  },
+  {
+   "name": "Berkeley_20201103_CityCouncilD2",
+   "k": 4,
+   "n_bound": 458,
+   "U": 7745,
+   "sources": [
+    "extension"
+   ]
+  },
+  {
+   "name": "Berkeley_20201103_Mayor",
+   "k": 4,
+   "n_bound": 3341,
+   "U": 55003,
+   "sources": [
+    "extension"
+   ]
+  },
+  {
+   "name": "Berkeley_20240528_CityCouncilDistrict4_Special",
+   "k": 4,
+   "n_bound": 128,
+   "U": 2183,
+   "sources": [
+    "primary"
+   ]
+  },
+  {
+   "name": "LasCruces_20191105_CityCouncilDistrict2",
+   "k": 4,
+   "n_bound": 2202,
+   "U": 48,
+   "sources": [
+    "primary"
+   ]
+  },
+  {
+   "name": "NewYorkCity_20210622_DEM_CityCouncilD16",
+   "k": 4,
+   "n_bound": 9143,
+   "U": 976,
+   "sources": [
+    "extension"
+   ]
+  },
+  {
+   "name": "NewYorkCity_20210622_DEM_CityCouncilD24",
+   "k": 4,
+   "n_bound": 11180,
+   "U": 2228,
+   "sources": [
+    "extension"
+   ]
+  },
+  {
+   "name": "NewYorkCity_20210622_DEM_CityCouncilD34",
+   "k": 4,
+   "n_bound": 15501,
+   "U": 894,
+   "sources": [
+    "primary"
+   ]
+  },
+  {
+   "name": "NewYorkCity_20210622_DEM_CityCouncilD42",
+   "k": 4,
+   "n_bound": 14397,
+   "U": 1229,
+   "sources": [
+    "extension"
+   ]
+  },
+  {
+   "name": "NewYorkCity_20210622_DEM_CityCouncilD47",
+   "k": 4,
+   "n_bound": 6889,
+   "U": 1133,
+   "sources": [
+    "extension"
+   ]
+  },
+  {
+   "name": "NewYorkCity_20210622_DEM_CityCouncilD8",
+   "k": 4,
+   "n_bound": 10778,
+   "U": 914,
+   "sources": [
+    "extension"
+   ]
+  },
+  {
+   "name": "NewYorkCity_20210622_REP_BoroughPresidentRichmond",
+   "k": 4,
+   "n_bound": 17783,
+   "U": 1828,
+   "sources": [
+    "extension"
+   ]
+  },
+  {
+   "name": "NewYorkCity_20230627_DEM_CityCouncilD1",
+   "k": 4,
+   "n_bound": 8109,
+   "U": 648,
+   "sources": [
+    "extension"
+   ]
+  },
+  {
+   "name": "NewYorkCity_20230627_DEM_CityCouncilD13",
+   "k": 4,
+   "n_bound": 3796,
+   "U": 441,
+   "sources": [
+    "primary"
+   ]
+  },
+  {
+   "name": "NewYorkCity_20230627_DEM_CityCouncilD41",
+   "k": 4,
+   "n_bound": 4225,
+   "U": 366,
+   "sources": [
+    "extension"
+   ]
+  },
+  {
+   "name": "NewYorkCity_20230627_DEM_CityCouncilD9",
+   "k": 4,
+   "n_bound": 10747,
+   "U": 808,
+   "sources": [
+    "extension"
+   ]
+  },
+  {
+   "name": "Oakland_20121106_CityCouncilDistrict5",
+   "k": 4,
+   "n_bound": 4647,
+   "U": 6634,
+   "sources": [
+    "extension"
+   ]
+  },
+  {
+   "name": "Oakland_20141104_SchoolDirectorDistrict4",
+   "k": 4,
+   "n_bound": 5758,
+   "U": 10382,
+   "sources": [
+    "primary"
+   ]
+  },
+  {
+   "name": "Oakland_20161108_SchoolDirectorDistrict5",
+   "k": 4,
+   "n_bound": 4269,
+   "U": 9074,
+   "sources": [
+    "extension"
+   ]
+  },
+  {
+   "name": "Oakland_20201103_SchoolDirectorDist5",
+   "k": 4,
+   "n_bound": 1089,
+   "U": 16063,
+   "sources": [
+    "primary"
+   ]
+  },
+  {
+   "name": "Oakland_20221108_CityCouncilmemberDistrict6",
+   "k": 4,
+   "n_bound": 1014,
+   "U": 13804,
+   "sources": [
+    "extension"
+   ]
+  },
+  {
+   "name": "Oakland_20241105_CityCouncilD7",
+   "k": 4,
+   "n_bound": 2149,
+   "U": 11481,
+   "sources": [
+    "extension"
+   ]
+  },
+  {
+   "name": "PierceCounty_20081104_CountyExecutiveMember",
+   "k": 4,
+   "n_bound": 49592,
+   "U": 249515,
+   "sources": [
+    "extension"
+   ]
+  },
+  {
+   "name": "SanFrancisco_20101102_BoardofSupervisorsDistrict8",
+   "k": 4,
+   "n_bound": 18229,
+   "U": 16738,
+   "sources": [
+    "primary"
+   ]
+  },
+  {
+   "name": "SanFrancisco_20111108_Sheriff",
+   "k": 4,
+   "n_bound": 78790,
+   "U": 104628,
+   "sources": [
+    "primary"
+   ]
+  },
+  {
+   "name": "SanFrancisco_20161108_BoardofSupervisorsDistrict9",
+   "k": 4,
+   "n_bound": 12544,
+   "U": 19578,
+   "sources": [
+    "extension"
+   ]
+  },
+  {
+   "name": "SanFrancisco_20181106_BoardofSupervisorsDistrict2",
+   "k": 4,
+   "n_bound": 11767,
+   "U": 23593,
+   "sources": [
+    "extension"
+   ]
+  },
+  {
+   "name": "SanFrancisco_20191105_BoardofSupervisorsDistrict5",
+   "k": 4,
+   "n_bound": 7983,
+   "U": 15714,
+   "sources": [
+    "primary"
+   ]
+  },
+  {
+   "name": "SanFrancisco_20191105_DistrictAttorney",
+   "k": 4,
+   "n_bound": 56807,
+   "U": 136638,
+   "sources": [
+    "primary"
+   ]
+  },
+  {
+   "name": "SanFrancisco_20201103_BoardOfSupervisorsD11",
+   "k": 4,
+   "n_bound": 2353,
+   "U": 29045,
+   "sources": [
+    "extension"
+   ]
+  },
+  {
+   "name": "SanFrancisco_20201103_BoardOfSupervisorsD3",
+   "k": 4,
+   "n_bound": 2384,
+   "U": 26541,
+   "sources": [
+    "extension"
+   ]
+  },
+  {
+   "name": "SanFrancisco_20201103_BoardOfSupervisorsD5",
+   "k": 4,
+   "n_bound": 3168,
+   "U": 38646,
+   "sources": [
+    "extension"
+   ]
+  },
+  {
+   "name": "SanFrancisco_20221108_BoardofSupervisorsD6",
+   "k": 4,
+   "n_bound": 1675,
+   "U": 14639,
+   "sources": [
+    "extension"
+   ]
+  },
+  {
+   "name": "SanFrancisco_20221108_DistrictAttorney",
+   "k": 4,
+   "n_bound": 30301,
+   "U": 246160,
+   "sources": [
+    "primary"
+   ]
+  },
+  {
+   "name": "SanFrancisco_20241105_BoS_D7",
+   "k": 4,
+   "n_bound": 4555,
+   "U": 32779,
+   "sources": [
+    "primary"
+   ]
+  },
+  {
+   "name": "SanLeandro_20121106_CountyCouncilDistrict4",
+   "k": 4,
+   "n_bound": 9047,
+   "U": 14088,
+   "sources": [
+    "extension"
+   ]
+  },
+  {
+   "name": "SanLeandro_20141104_CountyCouncilDistrict1",
+   "k": 4,
+   "n_bound": 5054,
+   "U": 10439,
+   "sources": [
+    "primary"
+   ]
+  },
+  {
+   "name": "SanLeandro_20141104_Mayor",
+   "k": 4,
+   "n_bound": 5350,
+   "U": 10878,
+   "sources": [
+    "extension"
+   ]
+  },
+  {
+   "name": "SanLeandro_20181106_Mayor",
+   "k": 4,
+   "n_bound": 6421,
+   "U": 19430,
+   "sources": [
+    "extension"
+   ]
+  },
+  {
+   "name": "Berkeley_20241105_Mayor",
+   "k": 5,
+   "n_bound": 6859,
+   "U": 45996,
+   "sources": [
+    "primary"
+   ]
+  },
+  {
+   "name": "NewYorkCity_20210622_DEM_BoroughPresidentBronx",
+   "k": 5,
+   "n_bound": 90367,
+   "U": 11199,
+   "sources": [
+    "extension"
+   ]
+  },
+  {
+   "name": "NewYorkCity_20210622_DEM_BoroughPresidentRichmond",
+   "k": 5,
+   "n_bound": 23797,
+   "U": 4467,
+   "sources": [
+    "extension"
+   ]
+  },
+  {
+   "name": "NewYorkCity_20210622_DEM_CityCouncilD13",
+   "k": 5,
+   "n_bound": 8891,
+   "U": 1070,
+   "sources": [
+    "extension"
+   ]
+  },
+  {
+   "name": "NewYorkCity_20210622_DEM_CityCouncilD21",
+   "k": 5,
+   "n_bound": 6216,
+   "U": 623,
+   "sources": [
+    "primary"
+   ]
+  },
+  {
+   "name": "NewYorkCity_20210622_DEM_CityCouncilD36",
+   "k": 5,
+   "n_bound": 21768,
+   "U": 1476,
+   "sources": [
+    "primary"
+   ]
+  },
+  {
+   "name": "NewYorkCity_20210622_DEM_CityCouncilD48",
+   "k": 5,
+   "n_bound": 7625,
+   "U": 1573,
+   "sources": [
+    "extension"
+   ]
+  },
+  {
+   "name": "NewYorkCity_20210622_REP_CityCouncilD50",
+   "k": 5,
+   "n_bound": 7329,
+   "U": 1236,
+   "sources": [
+    "extension"
+   ]
+  },
+  {
+   "name": "Oakland_20121106_CityCouncilAtLarge",
+   "k": 5,
+   "n_bound": 64635,
+   "U": 79725,
+   "sources": [
+    "extension"
+   ]
+  },
+  {
+   "name": "Oakland_20141104_CityCouncilDistrict2",
+   "k": 5,
+   "n_bound": 4993,
+   "U": 8577,
+   "sources": [
+    "extension"
+   ]
+  },
+  {
+   "name": "Oakland_20141104_CityCouncilDistrict6",
+   "k": 5,
+   "n_bound": 4469,
+   "U": 6713,
+   "sources": [
+    "primary"
+   ]
+  },
+  {
+   "name": "Oakland_20161108_CouncilAtLarge",
+   "k": 5,
+   "n_bound": 52225,
+   "U": 108382,
+   "sources": [
+    "primary"
+   ]
+  },
+  {
+   "name": "Oakland_20161108_SchoolDirectorDistrict3",
+   "k": 5,
+   "n_bound": 7407,
+   "U": 14978,
+   "sources": [
+    "primary"
+   ]
+  },
+  {
+   "name": "Oakland_20181106_CityCouncilDistrict6",
+   "k": 5,
+   "n_bound": 5363,
+   "U": 12535,
+   "sources": [
+    "extension"
+   ]
+  },
+  {
+   "name": "Oakland_20201103_CityCouncilD7",
+   "k": 5,
+   "n_bound": 1660,
+   "U": 17977,
+   "sources": [
+    "primary"
+   ]
+  },
+  {
+   "name": "Oakland_20201103_SchoolDirectorDist3",
+   "k": 5,
+   "n_bound": 1976,
+   "U": 26625,
+   "sources": [
+    "primary"
+   ]
+  },
+  {
+   "name": "Oakland_20201103_SchoolDirectorDist7",
+   "k": 5,
+   "n_bound": 1581,
+   "U": 16800,
+   "sources": [
+    "primary"
+   ]
+  },
+  {
+   "name": "SanFrancisco_20111108_DistrictAttorney",
+   "k": 5,
+   "n_bound": 78580,
+   "U": 105219,
+   "sources": [
+    "primary"
+   ]
+  },
+  {
+   "name": "SanFrancisco_20141104_BoardofSupervisorsDistrict10",
+   "k": 5,
+   "n_bound": 5577,
+   "U": 9868,
+   "sources": [
+    "primary"
+   ]
+  },
+  {
+   "name": "SanFrancisco_20161108_BoardofSupervisorsDistrict11",
+   "k": 5,
+   "n_bound": 8773,
+   "U": 16697,
+   "sources": [
+    "extension"
+   ]
+  },
+  {
+   "name": "SanFrancisco_20161108_BoardofSupervisorsDistrict7",
+   "k": 5,
+   "n_bound": 12503,
+   "U": 22846,
+   "sources": [
+    "primary"
+   ]
+  },
+  {
+   "name": "SanFrancisco_20241105_BoS_D1",
+   "k": 5,
+   "n_bound": 4548,
+   "U": 30950,
+   "sources": [
+    "primary"
+   ]
+  },
+  {
+   "name": "SanFrancisco_20241105_BoS_D5",
+   "k": 5,
+   "n_bound": 4034,
+   "U": 25702,
+   "sources": [
+    "primary"
+   ]
+  },
+  {
+   "name": "NewYorkCity_20210622_DEM_CityCouncilD14",
+   "k": 6,
+   "n_bound": 8625,
+   "U": 821,
+   "sources": [
+    "primary"
+   ]
+  },
+  {
+   "name": "NewYorkCity_20210622_DEM_CityCouncilD19",
+   "k": 6,
+   "n_bound": 10513,
+   "U": 2564,
+   "sources": [
+    "primary"
+   ]
+  },
+  {
+   "name": "NewYorkCity_20210622_DEM_CityCouncilD22",
+   "k": 6,
+   "n_bound": 14471,
+   "U": 1770,
+   "sources": [
+    "primary"
+   ]
+  },
+  {
+   "name": "NewYorkCity_20210622_DEM_CityCouncilD3",
+   "k": 6,
+   "n_bound": 24340,
+   "U": 4173,
+   "sources": [
+    "primary"
+   ]
+  },
+  {
+   "name": "NewYorkCity_20210622_DEM_CityCouncilD32",
+   "k": 6,
+   "n_bound": 8858,
+   "U": 1363,
+   "sources": [
+    "extension"
+   ]
+  },
+  {
+   "name": "NewYorkCity_20210622_DEM_CityCouncilD37",
+   "k": 6,
+   "n_bound": 9777,
+   "U": 1105,
+   "sources": [
+    "extension"
+   ]
+  },
+  {
+   "name": "NewYorkCity_20210622_DEM_CityCouncilD38",
+   "k": 6,
+   "n_bound": 10355,
+   "U": 1758,
+   "sources": [
+    "extension"
+   ]
+  },
+  {
+   "name": "NewYorkCity_20210622_DEM_CityCouncilD6",
+   "k": 6,
+   "n_bound": 32670,
+   "U": 6731,
+   "sources": [
+    "primary"
+   ]
+  },
+  {
+   "name": "Oakland_20121106_CityCouncilDistrict3",
+   "k": 6,
+   "n_bound": 10134,
+   "U": 11911,
+   "sources": [
+    "primary"
+   ]
+  },
+  {
+   "name": "Oakland_20201103_CityCouncilD3",
+   "k": 6,
+   "n_bound": 2112,
+   "U": 28705,
+   "sources": [
+    "primary"
+   ]
+  },
+  {
+   "name": "Oakland_20241105_CityCouncilD3",
+   "k": 6,
+   "n_bound": 3487,
+   "U": 17512,
+   "sources": [
+    "extension"
+   ]
+  },
+  {
+   "name": "Oakland_20250415_CityCouncilD2",
+   "k": 6,
+   "n_bound": 584,
+   "U": 12027,
+   "sources": [
+    "primary"
+   ]
+  },
+  {
+   "name": "PierceCounty_20081104_CountyAssessorTreasurer",
+   "k": 6,
+   "n_bound": 41502,
+   "U": 220270,
+   "sources": [
+    "primary"
+   ]
+  },
+  {
+   "name": "SanFrancisco_20101102_BoardofSupervisorsDistrict2",
+   "k": 6,
+   "n_bound": 11782,
+   "U": 12349,
+   "sources": [
+    "primary"
+   ]
+  },
+  {
+   "name": "SanFrancisco_20241105_BoS_D3",
+   "k": 6,
+   "n_bound": 4283,
+   "U": 24520,
+   "sources": [
+    "primary"
+   ]
+  },
+  {
+   "name": "SanLeandro_20101102_Mayor",
+   "k": 6,
+   "n_bound": 8999,
+   "U": 13455,
+   "sources": [
+    "primary"
+   ]
+  },
+  {
+   "name": "Berkeley_20121106_Mayor",
+   "k": 7,
+   "n_bound": 25004,
+   "U": 28053,
+   "sources": [
+    "primary"
+   ]
+  },
+  {
+   "name": "NewYorkCity_20210622_DEM_BoroughPresidentNewYork",
+   "k": 7,
+   "n_bound": 204202,
+   "U": 33402,
+   "sources": [
+    "extension"
+   ]
+  },
+  {
+   "name": "NewYorkCity_20210622_DEM_CityCouncilD11",
+   "k": 7,
+   "n_bound": 14339,
+   "U": 2702,
+   "sources": [
+    "primary"
+   ]
+  },
+  {
+   "name": "NewYorkCity_20210622_DEM_CityCouncilD23",
+   "k": 7,
+   "n_bound": 13461,
+   "U": 3071,
+   "sources": [
+    "primary"
+   ]
+  },
+  {
+   "name": "NewYorkCity_20210622_DEM_CityCouncilD35",
+   "k": 7,
+   "n_bound": 32437,
+   "U": 2477,
+   "sources": [
+    "extension"
+   ]
+  },
+  {
+   "name": "NewYorkCity_20210622_DEM_CityCouncilD39",
+   "k": 7,
+   "n_bound": 33248,
+   "U": 2810,
+   "sources": [
+    "primary"
+   ]
+  },
+  {
+   "name": "NewYorkCity_20210622_DEM_CityCouncilD5",
+   "k": 7,
+   "n_bound": 20863,
+   "U": 4552,
+   "sources": [
+    "primary"
+   ]
+  },
+  {
+   "name": "Oakland_20101102_CityCouncilDistrict4",
+   "k": 7,
+   "n_bound": 8371,
+   "U": 12602,
+   "sources": [
+    "primary"
+   ]
+  },
+  {
+   "name": "Oakland_20121106_CityCouncilDistrict1",
+   "k": 7,
+   "n_bound": 12405,
+   "U": 16213,
+   "sources": [
+    "primary"
+   ]
+  },
+  {
+   "name": "Oakland_20181106_CityCouncilDistrict4",
+   "k": 7,
+   "n_bound": 5982,
+   "U": 19292,
+   "sources": [
+    "extension"
+   ]
+  },
+  {
+   "name": "SanFrancisco_20081104_BoardofSupervisorsDistrict9",
+   "k": 7,
+   "n_bound": 15501,
+   "U": 11110,
+   "sources": [
+    "primary"
+   ]
+  },
+  {
+   "name": "SanFrancisco_20181106_BoardofSupervisorsDistrict10",
+   "k": 7,
+   "n_bound": 7383,
+   "U": 15881,
+   "sources": [
+    "extension"
+   ]
+  },
+  {
+   "name": "SanFrancisco_20191105_Mayor",
+   "k": 7,
+   "n_bound": 50664,
+   "U": 129245,
+   "sources": [
+    "primary"
+   ]
+  },
+  {
+   "name": "SanFrancisco_20201103_BoardOfSupervisorsD1",
+   "k": 7,
+   "n_bound": 3169,
+   "U": 32937,
+   "sources": [
+    "primary"
+   ]
+  },
+  {
+   "name": "SanFrancisco_20201103_BoardOfSupervisorsD7",
+   "k": 7,
+   "n_bound": 3280,
+   "U": 36117,
+   "sources": [
+    "primary"
+   ]
+  },
+  {
+   "name": "SanFrancisco_20241105_BoS_D11",
+   "k": 7,
+   "n_bound": 3112,
+   "U": 24885,
+   "sources": [
+    "primary"
+   ]
+  },
+  {
+   "name": "SanFrancisco_20241105_BoS_D9",
+   "k": 7,
+   "n_bound": 4229,
+   "U": 28564,
+   "sources": [
+    "primary"
+   ]
+  },
+  {
+   "name": "Alaska_20241105_President",
+   "k": 8,
+   "n_bound": 246991,
+   "U": 91659,
+   "sources": [
+    "primary"
+   ]
+  },
+  {
+   "name": "Berkeley_20161108_Mayor",
+   "k": 8,
+   "n_bound": 20651,
+   "U": 38630,
+   "sources": [
+    "primary"
+   ]
+  },
+  {
+   "name": "NewYorkCity_20210622_DEM_CityCouncilD10",
+   "k": 8,
+   "n_bound": 18041,
+   "U": 1560,
+   "sources": [
+    "primary"
+   ]
+  },
+  {
+   "name": "NewYorkCity_20210622_DEM_CityCouncilD15",
+   "k": 8,
+   "n_bound": 7443,
+   "U": 796,
+   "sources": [
+    "primary"
+   ]
+  },
+  {
+   "name": "NewYorkCity_20210622_DEM_CityCouncilD18",
+   "k": 8,
+   "n_bound": 12666,
+   "U": 1365,
+   "sources": [
+    "primary"
+   ]
+  },
+  {
+   "name": "NewYorkCity_20210622_DEM_CityCouncilD20",
+   "k": 8,
+   "n_bound": 8449,
+   "U": 2195,
+   "sources": [
+    "primary"
+   ]
+  },
+  {
+   "name": "NewYorkCity_20210622_DEM_CityCouncilD25",
+   "k": 8,
+   "n_bound": 11405,
+   "U": 3522,
+   "sources": [
+    "extension"
+   ]
+  },
+  {
+   "name": "NewYorkCity_20210622_DEM_CityCouncilD33",
+   "k": 8,
+   "n_bound": 26014,
+   "U": 3164,
+   "sources": [
+    "primary"
+   ]
+  },
+  {
+   "name": "NewYorkCity_20210622_DEM_CityCouncilD46",
+   "k": 8,
+   "n_bound": 16849,
+   "U": 1628,
+   "sources": [
+    "primary"
+   ]
+  },
+  {
+   "name": "SanFrancisco_20121106_BoardofSupervisorsDistrict5",
+   "k": 8,
+   "n_bound": 18228,
+   "U": 17038,
+   "sources": [
+    "primary"
+   ]
+  },
+  {
+   "name": "SanFrancisco_20181106_BoardofSupervisorsDistrict4",
+   "k": 8,
+   "n_bound": 9387,
+   "U": 19117,
+   "sources": [
+    "primary"
+   ]
+  },
+  {
+   "name": "NewYorkCity_20210622_DEM_CityCouncilD1",
+   "k": 9,
+   "n_bound": 19327,
+   "U": 2512,
+   "sources": [
+    "primary"
+   ]
+  },
+  {
+   "name": "NewYorkCity_20210622_DEM_CityCouncilD29",
+   "k": 9,
+   "n_bound": 13922,
+   "U": 3209,
+   "sources": [
+    "primary"
+   ]
+  },
+  {
+   "name": "NewYorkCity_20210622_DEM_CityCouncilD49",
+   "k": 9,
+   "n_bound": 12048,
+   "U": 1696,
+   "sources": [
+    "extension"
+   ]
+  },
+  {
+   "name": "SanFrancisco_20081104_BoardofSupervisorsDistrict1",
+   "k": 9,
+   "n_bound": 15780,
+   "U": 13052,
+   "sources": [
+    "primary"
+   ]
+  },
+  {
+   "name": "SanFrancisco_20081104_BoardofSupervisorsDistrict11",
+   "k": 9,
+   "n_bound": 11950,
+   "U": 12882,
+   "sources": [
+    "primary"
+   ]
+  },
+  {
+   "name": "SanFrancisco_20081104_BoardofSupervisorsDistrict3",
+   "k": 9,
+   "n_bound": 14548,
+   "U": 12762,
+   "sources": [
+    "primary"
+   ]
+  },
+  {
+   "name": "SanFrancisco_20121106_BoardofSupervisorsDistrict7",
+   "k": 9,
+   "n_bound": 13499,
+   "U": 17984,
+   "sources": [
+    "primary"
+   ]
+  },
+  {
+   "name": "SanFrancisco_20180605_Mayor",
+   "k": 9,
+   "n_bound": 88929,
+   "U": 162469,
+   "sources": [
+    "primary"
+   ]
+  },
+  {
+   "name": "LasCruces_20191105_Mayor",
+   "k": 10,
+   "n_bound": 13648,
+   "U": 410,
+   "sources": [
+    "primary"
+   ]
+  },
+  {
+   "name": "NewYorkCity_20210622_DEM_Comptroller",
+   "k": 10,
+   "n_bound": 762903,
+   "U": 105669,
+   "sources": [
+    "primary"
+   ]
+  },
+  {
+   "name": "Oakland_20101102_Mayor",
+   "k": 10,
+   "n_bound": 54086,
+   "U": 65600,
+   "sources": [
+    "primary"
+   ]
+  },
+  {
+   "name": "Oakland_20181106_Mayor",
+   "k": 10,
+   "n_bound": 44209,
+   "U": 114998,
+   "sources": [
+    "primary"
+   ]
+  },
+  {
+   "name": "Oakland_20221108_Mayor",
+   "k": 10,
+   "n_bound": 8571,
+   "U": 118985,
+   "sources": [
+    "primary"
+   ]
+  },
+  {
+   "name": "Oakland_20241105_CityCouncil_AtLarge",
+   "k": 10,
+   "n_bound": 16523,
+   "U": 130953,
+   "sources": [
+    "primary"
+   ]
+  },
+  {
+   "name": "Oakland_20250415_Mayor",
+   "k": 10,
+   "n_bound": 4530,
+   "U": 90022,
+   "sources": [
+    "primary"
+   ]
+  },
+  {
+   "name": "SanFrancisco_20161108_BoardofSupervisorsDistrict1",
+   "k": 10,
+   "n_bound": 12183,
+   "U": 19604,
+   "sources": [
+    "primary"
+   ]
+  },
+  {
+   "name": "NewYorkCity_20210622_DEM_CityCouncilD40",
+   "k": 11,
+   "n_bound": 20469,
+   "U": 1892,
+   "sources": [
+    "primary"
+   ]
+  },
+  {
+   "name": "NewYorkCity_20210622_DEM_BoroughPresidentKings",
+   "k": 12,
+   "n_bound": 263214,
+   "U": 26212,
+   "sources": [
+    "primary"
+   ]
+  },
+  {
+   "name": "NewYorkCity_20210622_DEM_CityCouncilD27",
+   "k": 12,
+   "n_bound": 18051,
+   "U": 2369,
+   "sources": [
+    "primary"
+   ]
+  },
+  {
+   "name": "NewYorkCity_20210622_DEM_CityCouncilD7",
+   "k": 12,
+   "n_bound": 20344,
+   "U": 2870,
+   "sources": [
+    "primary"
+   ]
+  },
+  {
+   "name": "SanFrancisco_20151103_Mayor",
+   "k": 12,
+   "n_bound": 72633,
+   "U": 117395,
+   "sources": [
+    "primary"
+   ]
+  },
+  {
+   "name": "NewYorkCity_20210622_DEM_CityCouncilD9",
+   "k": 13,
+   "n_bound": 23413,
+   "U": 2266,
+   "sources": [
+    "primary"
+   ]
+  },
+  {
+   "name": "NewYorkCity_20210622_DEM_Mayor",
+   "k": 13,
+   "n_bound": 831305,
+   "U": 112956,
+   "sources": [
+    "primary"
+   ]
+  },
+  {
+   "name": "SanFrancisco_20101102_BoardofSupervisorsDistrict6",
+   "k": 14,
+   "n_bound": 10125,
+   "U": 11085,
+   "sources": [
+    "primary"
+   ]
+  },
+  {
+   "name": "NewYorkCity_20210622_DEM_CityCouncilD26",
+   "k": 15,
+   "n_bound": 16276,
+   "U": 1649,
+   "sources": [
+    "primary"
+   ]
+  },
+  {
+   "name": "SanFrancisco_20241105_Mayor",
+   "k": 15,
+   "n_bound": 53513,
+   "U": 337487,
+   "sources": [
+    "primary"
+   ]
+  },
+  {
+   "name": "Oakland_20141104_Mayor",
+   "k": 16,
+   "n_bound": 40486,
+   "U": 61808,
+   "sources": [
+    "primary"
+   ]
+  },
+  {
+   "name": "SanFrancisco_20101102_BoardofSupervisorsDistrict10",
+   "k": 21,
+   "n_bound": 7817,
+   "U": 10179,
+   "sources": [
+    "primary"
+   ]
+  },
+  {
+   "name": "SanFrancisco_20111108_Mayor",
+   "k": 23,
+   "n_bound": 83144,
+   "U": 111610,
+   "sources": [
+    "primary"
+   ]
+  }
+ ]
+}
